@@ -6,10 +6,11 @@ This is random text
 
 This is **bold**
 
+This is *italicized*
+
 List
 - item 1
 - item 2
-- item 3
 
 Number list
 1. item 1
